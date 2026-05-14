@@ -116,6 +116,23 @@ Soap x 4 = 140.0
 Total Amount : 410.0
 Status       : Confirmed
 ====================================
+
+===== CUSTOMER MENU =====
+1. View Products
+2. Add Product To Cart
+3. View Cart 
+4. Checkout
+5. Logout
+Enter Choice: 5
+Logged Out
+
+===== ONLINE SHOPPING SYSTEM =====
+1. Signup
+2. Login
+3. Exit
+Enter Choice: 3
+Exiting System...
+
 ```
 
 ---
