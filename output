@@ -1,0 +1,217 @@
+
+===== ONLINE SHOPPING SYSTEM =====
+1. Signup
+2. Login
+3. Exit
+Enter Choice: 1
+
+--- Customer Signup ---
+Enter Customer ID: 123
+Enter Name: faham
+Enter Email: faham@abc
+Enter Address: home
+Enter Username: faham_razi
+Enter Password: 123456
+Signup Successful
+
+===== ONLINE SHOPPING SYSTEM =====
+1. Signup
+2. Login
+3. Exit
+Enter Choice: 2
+
+--- Customer Login ---
+Enter Username: faham_razi
+Enter Password: 123456
+Login Successful
+
+===== CUSTOMER MENU =====
+1. View Products
+2. Add Product To Cart
+3. View Cart 
+4. Checkout
+5. Logout
+Enter Choice: 1
+Product ID: 101
+Product Name: Rice
+Price: 60.0
+Stock: 100
+--------------------
+Product ID: 102
+Product Name: Wheat Flour
+Price: 45.0
+Stock: 80
+--------------------
+Product ID: 103
+Product Name: Sugar
+Price: 40.0
+Stock: 70
+--------------------
+Product ID: 104
+Product Name: Salt
+Price: 20.0
+Stock: 50
+--------------------
+Product ID: 105
+Product Name: Milk
+Price: 30.0
+Stock: 60
+--------------------
+Product ID: 106
+Product Name: Bread
+Price: 35.0
+Stock: 40
+--------------------
+Product ID: 107
+Product Name: Eggs
+Price: 6.0
+Stock: 200
+--------------------
+Product ID: 108
+Product Name: Cooking Oil
+Price: 140.0
+Stock: 45
+--------------------
+Product ID: 109
+Product Name: Tea Powder
+Price: 120.0
+Stock: 30
+--------------------
+Product ID: 110
+Product Name: Coffee
+Price: 180.0
+Stock: 25
+--------------------
+Product ID: 111
+Product Name: Biscuits
+Price: 25.0
+Stock: 100
+--------------------
+Product ID: 112
+Product Name: Soap
+Price: 35.0
+Stock: 90
+--------------------
+Product ID: 113
+Product Name: Shampoo
+Price: 120.0
+Stock: 40
+--------------------
+Product ID: 114
+Product Name: Toothpaste
+Price: 90.0
+Stock: 50
+--------------------
+Product ID: 115
+Product Name: Detergent
+Price: 160.0
+Stock: 35
+--------------------
+
+===== CUSTOMER MENU =====
+1. View Products
+2. Add Product To Cart
+3. View Cart 
+4. Checkout
+5. Logout
+Enter Choice: 2
+Enter Product ID: 101
+Enter Quantity: 2
+Product added to cart
+
+===== CUSTOMER MENU =====
+1. View Products
+2. Add Product To Cart
+3. View Cart 
+4. Checkout
+5. Logout
+Enter Choice: 2
+Enter Product ID: 105
+Enter Quantity: 5
+Product added to cart
+
+===== CUSTOMER MENU =====
+1. View Products
+2. Add Product To Cart
+3. View Cart 
+4. Checkout
+5. Logout
+Enter Choice: 2
+Enter Product ID: 112
+Enter Quantity: 4
+Product added to cart
+
+===== CUSTOMER MENU =====
+1. View Products
+2. Add Product To Cart
+3. View Cart 
+4. Checkout
+5. Logout
+Enter Choice: 3
+
+========== CART ==========
+Product : Rice
+Quantity : 2
+Price : 60.0
+Total : 120.0
+----------------------
+Product : Milk
+Quantity : 5
+Price : 30.0
+Total : 150.0
+----------------------
+Product : Soap
+Quantity : 4
+Price : 35.0
+Total : 140.0
+----------------------
+Cart Total : 410.0
+==========================
+
+===== CUSTOMER MENU =====
+1. View Products
+2. Add Product To Cart
+3. View Cart 
+4. Checkout
+5. Logout
+Enter Choice: 4
+Cart Total: 410.0
+Order Created Successfully
+Order ID: 1
+Customer: faham
+Total Amount: 410.0
+Status: Confirmed
+Payment Successful
+
+====================================
+              INVOICE
+====================================
+Order ID    : 1
+Customer    : faham
+Date        : 2026-05-14
+------------------------------------
+Items Purchased
+------------------------------------
+Rice x 2 = 120.0
+Milk x 5 = 150.0
+Soap x 4 = 140.0
+------------------------------------
+Total Amount : 410.0
+Status       : Confirmed
+====================================
+
+===== CUSTOMER MENU =====
+1. View Products
+2. Add Product To Cart
+3. View Cart 
+4. Checkout
+5. Logout
+Enter Choice: 5
+Logged Out
+
+===== ONLINE SHOPPING SYSTEM =====
+1. Signup
+2. Login
+3. Exit
+Enter Choice: 3
+Exiting System...
